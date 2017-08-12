@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58989D31-9DAE-4AA7-B822-AA1844CEA93D}</ProjectGuid>
+    <ProjectGuid>{29D92FAE-4053-48D9-A123-369C383B9054}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Feliz.Tests</RootNamespace>
@@ -47,7 +47,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Feliz_e_Sortudo\Forms\Feliz_e_Sortudo\FelizESortudo.csproj">
+    <ProjectReference Include="..\Feliz_e_Sortudo\FelizESortudo.csproj">
       <Project>{3abca07f-2eba-44c1-914e-658d00908ea5}</Project>
       <Name>FelizESortudo</Name>
     </ProjectReference>

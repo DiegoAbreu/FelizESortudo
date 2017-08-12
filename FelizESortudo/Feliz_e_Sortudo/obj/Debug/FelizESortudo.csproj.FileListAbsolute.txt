@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\bin\Debug\FelizESortudo.exe.config
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\bin\Debug\FelizESortudo.exe
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\bin\Debug\FelizESortudo.pdb
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.Form1.resources
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.Properties.Resources.resources
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.exe
+\\Mac\Home\Desktop\Forms\Feliz_e_Sortudo\obj\Debug\FelizESortudo.pdb
